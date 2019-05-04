@@ -1,0 +1,14 @@
+README.rst
+.git
+.idea
+pycparser
+tests
+utils
+setup.py
+setup.cfg
+TODO.txt
+MANIFEST.in
+tox.ini
+CHANGES
+CONTRIBUTORS
+LICENSE
