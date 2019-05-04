@@ -184,5 +184,5 @@ if __name__ == '__main__':
     plt.legend()
 
   # Display graph
-    plt.show()
-    plt.show()
+  #   plt.show()
+  #   plt.show()
